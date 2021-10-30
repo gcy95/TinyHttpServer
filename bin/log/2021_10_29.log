@@ -1,0 +1,22 @@
+2021-10-29 19:28:56.752361 [info] : ========== Server init ==========
+2021-10-29 19:28:56.752392 [info] : Port:1316, OpenLinger: false
+2021-10-29 19:28:56.752397 [info] : Listen Mode: ET, OpenConn Mode: ET
+2021-10-29 19:28:56.752401 [info] : LogSys level: 1
+2021-10-29 19:28:56.752404 [info] : srcDir: /home/guochuanyu/WebServer-withnote/bin/resources/
+2021-10-29 19:28:56.752408 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2021-10-29 19:28:56.752411 [info] : ========== Server start ==========
+2021-10-29 19:29:41.006376 [info] : Client[18](222.178.10.150:9685) in, userCount:1
+2021-10-29 19:29:41.006522 [info] : Client[18] in!
+2021-10-29 19:29:41.010900 [info] : Client[20](222.178.10.150:651) in, userCount:2
+2021-10-29 19:29:41.010973 [info] : Client[20] in!
+2021-10-29 19:30:41.070337 [info] : Client[20] quit!
+2021-10-29 19:30:41.070489 [info] : Client[20](222.178.10.150:651) quit, UserCount:1
+2021-10-29 19:44:26.095454 [info] : ========== Server init ==========
+2021-10-29 19:44:26.095469 [info] : Port:1316, OpenLinger: false
+2021-10-29 19:44:26.095474 [info] : Listen Mode: ET, OpenConn Mode: ET
+2021-10-29 19:44:26.095480 [info] : LogSys level: 1
+2021-10-29 19:44:26.095485 [info] : srcDir: /home/guochuanyu/WebServer-withnote/bin/resources/
+2021-10-29 19:44:26.095489 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2021-10-29 19:44:26.095495 [info] : ========== Server start ==========
+2021-10-29 19:44:28.674044 [info] : Client[18](222.178.10.150:25474) in, userCount:1
+2021-10-29 19:44:28.674141 [info] : Client[18] in!

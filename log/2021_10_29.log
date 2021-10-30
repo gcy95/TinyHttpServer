@@ -1,0 +1,37 @@
+2021-10-29 19:47:14.573693 [info] : ========== Server init ==========
+2021-10-29 19:47:14.573716 [info] : Port:1316, OpenLinger: false
+2021-10-29 19:47:14.573722 [info] : Listen Mode: ET, OpenConn Mode: ET
+2021-10-29 19:47:14.573727 [info] : LogSys level: 1
+2021-10-29 19:47:14.573731 [info] : srcDir: /home/guochuanyu/WebServer-withnote/resources/
+2021-10-29 19:47:14.573735 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2021-10-29 19:47:14.573740 [info] : ========== Server start ==========
+2021-10-29 19:47:17.384080 [info] : Client[18](222.178.10.150:50129) in, userCount:1
+2021-10-29 19:47:17.384183 [info] : Client[18] in!
+2021-10-29 19:47:17.386800 [info] : Client[23](222.178.10.150:62455) in, userCount:2
+2021-10-29 19:47:17.386850 [info] : Client[23] in!
+2021-10-29 19:47:17.501503 [info] : Client[22](222.178.10.150:57312) in, userCount:3
+2021-10-29 19:47:17.501610 [info] : Client[22] in!
+2021-10-29 19:47:17.507382 [info] : Client[24](222.178.10.150:9371) in, userCount:4
+2021-10-29 19:47:17.507445 [info] : Client[24] in!
+2021-10-29 19:47:17.508640 [info] : Client[26](222.178.10.150:14535) in, userCount:5
+2021-10-29 19:47:17.508674 [info] : Client[26] in!
+2021-10-29 19:47:17.510294 [info] : Client[25](222.178.10.150:3722) in, userCount:6
+2021-10-29 19:47:17.510320 [info] : Client[25] in!
+2021-10-29 19:48:02.283982 [info] : Client[22] quit!
+2021-10-29 19:48:02.284187 [info] : Client[22](222.178.10.150:57312) quit, UserCount:5
+2021-10-29 19:48:15.082833 [info] : Client[23] quit!
+2021-10-29 19:48:15.083148 [info] : Client[23](222.178.10.150:62455) quit, UserCount:4
+2021-10-29 19:48:15.143089 [info] : Client[22](222.178.10.150:7303) in, userCount:5
+2021-10-29 19:48:15.143169 [info] : Client[22] in!
+2021-10-29 19:48:15.144978 [info] : Client[23](222.178.10.150:8140) in, userCount:6
+2021-10-29 19:48:15.145023 [info] : Client[23] in!
+2021-10-29 19:48:30.399761 [info] : Verify name:user pwd:passwd
+2021-10-29 19:48:30.421039 [error]: RequestLine Error
+2021-10-29 19:48:30.421471 [info] : Client[23] quit!
+2021-10-29 19:48:30.421528 [info] : Client[23](222.178.10.150:8140) quit, UserCount:5
+2021-10-29 19:48:30.553748 [info] : Client[23](222.178.10.150:24470) in, userCount:6
+2021-10-29 19:48:30.553797 [info] : Client[23] in!
+2021-10-29 19:49:02.159590 [info] : Verify name:gcy pwd:xiaoyuzi1995
+2021-10-29 19:49:02.160266 [error]: RequestLine Error
+2021-10-29 19:49:02.160406 [info] : Client[24] quit!
+2021-10-29 19:49:02.160463 [info] : Client[24](222.178.10.150:9371) quit, UserCount:5
